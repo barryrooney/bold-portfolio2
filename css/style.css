@@ -12,7 +12,7 @@ body{
 }
 
 
-
+/*----------------BACKGROUND IMAGES-----------------*/
 
  #home { 
      
@@ -30,8 +30,35 @@ body{
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+    
+    
 }
 
+#about {
+background-image: url("../images/about-background.png");
+     background-repeat: no-repeat;
+     min-width: 200px;
+     background-color: black;
+     background-position: center; 
+     background-size: 100%
+}
+
+
+#aboutimg
+
+{
+    
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+    
+}
+
+
+
+
+/*----------------NAV-----------------*/
 
 nav {
         float: right;
@@ -67,7 +94,7 @@ nav a:hover {
     }
 
 
-
+/*----------------SECTIONS-----------------*/
 
 #secondary { 
     background-color: #cccccc; 
@@ -196,7 +223,6 @@ th, td {
     padding: 0.6em;}
 
 
-    .headerimg {padding-top: 20em; }
     
 
    
