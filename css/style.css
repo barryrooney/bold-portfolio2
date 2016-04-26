@@ -1,6 +1,8 @@
 /*----------------TYPOGRAPHY-----------------*/
 
-font-family: 'Varela Round', sans-serif;
+body{
+    font-family: 'Varela Round', sans-serif;
+}
 
 
 /*----------------BODY-----------------*/
@@ -14,46 +16,37 @@ body{
 
 /*----------------BACKGROUND IMAGES-----------------*/
 
- #home { 
+#home { 
      
      background-image: url("../images/toppic.png");
      background-repeat: no-repeat;
      min-width: 200px;
-     background-color: black;
      background-position: center; 
      background-size: 100%
-
 }
 
-#brand {
-    
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-    
-    
-}
 
-#about {
+#fourth {
 background-image: url("../images/about-background.png");
      background-repeat: no-repeat;
      min-width: 200px;
-     background-color: black;
      background-position: center; 
      background-size: 100%
 }
 
 
-#aboutimg
 
-{
-    
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-    
-    
+#sixth {
+background-image: url("../images/footer.png");
+     background-repeat: no-repeat;
+     min-width: 200px;
+     background-position: center; 
+     background-size: 100%
 }
+
+
+         
+
 
 
 
