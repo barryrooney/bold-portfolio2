@@ -45,6 +45,11 @@ background-image: url("../images/footer.png");
 }
 
 
+#brand {background-size: 100%;
+    background-position: center;
+    
+}
+
          
 
 
